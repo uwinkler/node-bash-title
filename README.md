@@ -18,12 +18,18 @@ or
 ````
 
 
-## Usage 
+## Usage (in Node)
 
-In shell script
-
-```
+```javascript
   const setTitle = require('node-bash-title');
   setTitle('🍻  Server');
+```
+
+## Usage (in NPM scripts)
+
+```javascript
+ "scripts": {
+    "start": "set-bash-title server && node server/app.js"
+  },
 ```
 

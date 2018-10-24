@@ -1,5 +1,7 @@
 # node-bash-title
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uwinkler/node-bash-title.svg)](https://greenkeeper.io/)
+
 A NodeJS library to change the title of your BASH shell. Usefull in development: name your bash screens and display error or info messages. You even may use unicode 🍻!
 
 ![screeenshot](https://cloud.githubusercontent.com/assets/582533/20051424/3caa15b6-a4cf-11e6-8ce3-642523998a04.png)
